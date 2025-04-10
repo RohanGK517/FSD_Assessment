@@ -36,8 +36,8 @@ The assessment work given by INI8 LABS on full stack development
      }
 
 # Run Migrations :
-   python manage.py makemigrations
-   python manage.py migrate
+   * python manage.py makemigrations
+   * python manage.py migrate
 
 # Start Server :
    python manage.py runserver
