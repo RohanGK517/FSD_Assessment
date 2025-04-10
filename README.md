@@ -9,7 +9,7 @@ The assessment work given by INI8 LABS on full stack development
 # Project Setup
 
 1. Clone & Open Project
-   git clone https://github.com/your-repo/user-crud-app.git
+   https://github.com/RohanGK517/FSD_Assessment.git (Clone usinng this url) or can also download zip file
 
 * cd FSD_Assessment
 
