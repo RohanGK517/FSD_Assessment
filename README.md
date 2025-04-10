@@ -10,7 +10,8 @@ The assessment work given by INI8 LABS on full stack development
 
 1. Clone & Open Project
    git clone https://github.com/your-repo/user-crud-app.git
-   cd FSD_Assessment
+
+* cd FSD_Assessment
 
 2. Create Virtual Environment (if necessery)
    python -m venv env
