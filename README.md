@@ -60,5 +60,5 @@ In settings.py:
 - MIDDLEWARE.insert(0, 'corsheaders.middleware.CorsMiddleware')
 - CORS_ALLOW_ALL_ORIGINS = True
 
-- Install package:
+# Install package:
     pip install django-cors-headers
