@@ -17,7 +17,7 @@ The assessment work given by INI8 LABS on full stack development
    python -m venv env
    env\Scripts\activate  (On Windows)
 
-# Install Packages
+# Install Packages:
    pip install -r requirements.txt
 
 4. MySQL Setup
@@ -35,11 +35,11 @@ The assessment work given by INI8 LABS on full stack development
          }
      }
 
-# Run Migrations
+# Run Migrations :
    python manage.py makemigrations
    python manage.py migrate
 
-# Start Server
+# Start Server :
    python manage.py runserver
 
 ------------------------
