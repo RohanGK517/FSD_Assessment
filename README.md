@@ -13,17 +13,18 @@ The assessment work given by INI8 LABS on full stack development
 
 * cd FSD_Assessment
 
-2. Create Virtual Environment (if necessery)
+ # Create Virtual Environment (if necessery)
    python -m venv env
    env\Scripts\activate  (On Windows)
 
-3. Install Packages
+# Install Packages
    pip install -r requirements.txt
 
 4. MySQL Setup
    - Create a database called registration_db.
    - Update DATABASES in settings.py:
-     DATABASES = {
+
+- DATABASES = {
          'default': {
              'ENGINE': 'django.db.backends.mysql',
              'NAME': 'registration_db',
@@ -34,11 +35,11 @@ The assessment work given by INI8 LABS on full stack development
          }
      }
 
-5. Run Migrations
+# Run Migrations
    python manage.py makemigrations
    python manage.py migrate
 
-6. Start Server
+# Start Server
    python manage.py runserver
 
 ------------------------
